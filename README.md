@@ -77,46 +77,4 @@ This project is licensed under the **GNU GPLv3 License** - see the [LICENSE](LIC
 ### 🤝 Connect
 Created by **Naseef AK**.
 [LinkedIn](https://www.linkedin.com/in/naseef-ak-24155121b/)
-git clone https://github.com/yourusername/pharmacy-tracker.git
-    cd pharmacy-tracker
-    ```
 
-2.  **Create a virtual environment** (Recommended):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3.  **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## 📚 Documentation
-For a detailed walkthrough with screenshots and FAQs, please see the [User Guide](USER_GUIDE.md).
-
-## 🚀 Usage
-
-1.  **Run the application**:
-    ```bash
-    python src/main.py
-    ```
-    The app will automatically open in your default browser at `http://127.0.0.1:8000`.
-
-2.  **First-Time Setup**:
-    *   On the first launch, you will be prompted to set an **Admin Password** and your **Opening Petty Cash**.
-    *   Remember this password! It is required for all admin functions.
-
-3.  **Daily Routine**:
-    *   Enter your sales and expenses for the day.
-    *   Count your physical cash and enter it in "Actual Cash".
-    *   Click **Save Report**.
-
-## 🛡️ Security Note
-
-*   **Local Data**: All data is stored locally on your machine.
-*   **Password Recovery**: There is no "Forgot Password" feature for security reasons. If you lose your admin password, you may need to manually access the SQLite database to reset it.
-
-## 📄 License
-
-This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE) file for details.

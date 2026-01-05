@@ -36,7 +36,7 @@ Prerequisites:
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/aknaseef/pharmatrack.git](https://github.com/naseernachi/pharmatrack.git)
+    git clone https://github.com/aknaseef/pharmatrack.git
     cd pharmatrack
     ```
 
